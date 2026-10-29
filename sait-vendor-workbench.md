@@ -4,7 +4,7 @@ A client application built for SAIT Commercial Services in 2026 to administer ca
 
 ## The problem
 
-Sixteen campus food vendors paid rent under sixteen different arrangements: flat rent, a percentage of sales, operating-cost recoveries, common-area charges, tiers, and combinations of these, written into leases over many years. Nobody could say in one sentence what a vendor paid for its space or whether two vendors with similar sales paid anything like the same amount. The monthly routine ran on spreadsheets that arrived from the vendors in different shapes, and every question about what a location should pay turned into a day of reconciliation.
+SAIT asked the team to cover nine walk-up food storefronts on campus. Each paid rent under terms written into its own lease over the years: most a percentage of sales, a few a flat rent with cost recoveries, and some with an overage above a sales threshold. Nobody could say in one sentence what a storefront paid for its space or whether two storefronts with similar sales paid anything like the same amount. The monthly routine ran on spreadsheets that arrived from the vendors in different shapes, and every question about what a location should pay turned into a day of reconciliation.
 
 The brief was a consultancy: map how every location pays today, make the locations comparable, and give the client an instrument to define a standardized rent model themselves. Standardized in structure, not in amount. The same lease parts everywhere, with the amounts set by the client in negotiation.
 
@@ -35,7 +35,7 @@ This was the part I cared most about, because a rent model nobody trusts is a sp
 
 ## What shipped
 
-The app went to the client in two visits in September 2026: a live walkthrough with a findings sheet, then the install with printed operator guides and a handover checklist. The findings from the room were triaged the same evening and the fixes gated and shipped before the second visit. The client's technical services group is now weighing bringing the app inside the institution's own environment, which it does not normally do for a department-sourced tool, and asked for a security brief, which became a hardening release.
+The app went to the client in two visits in September 2026: a live walkthrough with a findings sheet, then the install with printed operator guides and a handover checklist. The findings from the room were triaged the same evening and the fixes gated and shipped before the second visit. A security brief requested after handover became a hardening release.
 
 ## What I learned
 
