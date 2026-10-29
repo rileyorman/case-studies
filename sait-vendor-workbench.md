@@ -37,6 +37,12 @@ This was the part I cared most about, because a rent model nobody trusts is a sp
 
 The app went to the client in two visits in September 2026: a live walkthrough with a findings sheet, then the install with printed operator guides and a handover checklist. The findings from the room were triaged the same evening and the fixes gated and shipped before the second visit. A security brief requested after handover became a hardening release.
 
+## The people
+
+The best part of the project was the people. Livia Kolbe, Director of Commercial Services, and her team treated me as a colleague from the first meeting. They gave me their time, answered the questions the app flagged, sat through the walkthrough and the install visit, and told me straight when something didn't work for them. The findings sheet from the first visit became the fix list for the second. The app is better for it, and I really enjoyed working with them.
+
+After handover Livia wrote, in a public recommendation, that the result was "both technically sound and operationally practical." That is the line I was working for.
+
 ## What I learned
 
 - **Say what the number is.** Original, calculated, uploaded, or blank. Labelling the provenance on every cell ended most of the arguments before they started.
