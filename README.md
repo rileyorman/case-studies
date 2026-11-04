@@ -1,5 +1,7 @@
 # Case studies
 
+*These pages are for people who want to know what I built and how it was checked, without reading code. Start with the SAIT page. It is the one project here that was built for a client and handed over.*
+
 Write-ups of work whose code is not public, and of how I build.
 
 - [SAIT Vendor Workbench](sait-vendor-workbench.md). A client application for administering campus vendor rent, delivered under a confidentiality agreement. The problem, what I built, how I knew the numbers were right, what shipped, the people I worked with, what I learned.

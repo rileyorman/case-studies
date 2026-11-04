@@ -1,5 +1,7 @@
 # How I work with AI
 
+*I use Claude, an AI model, to write most of the code. I decide what gets built, what a number means and what counts as proof, and nothing goes live until the automated tests and a scripted run of the app pass. This page sets out the rules I hold the model to and the times it got things wrong. The same habit applies in finance. A figure is only as good as the evidence behind it.*
+
 I build finance software with Claude Code as the pair. This page says what that means in practice, because "built with AI" can mean anything from a prompt pasted into a chat to a working method. The commit history of [FinLens](https://github.com/rileyorman/finlens) shows the method in detail. This is the short version.
 
 ## The split

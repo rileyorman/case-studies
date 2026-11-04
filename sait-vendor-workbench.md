@@ -1,5 +1,7 @@
 # SAIT Vendor Workbench
 
+*SAIT Commercial Services rents space to nine food vendors on campus. Each lease was written at a different time with different terms, and nobody could say what two similar vendors paid for their space. I built the team an application that records each month's sales and rent, keeps an audit trail of every change, and lets them build a standard rent model and see side by side who would pay more and who would pay less. About 1,100 automated checks confirm every figure matches SAIT's own records to the cent. The app was handed over in September 2026 with printed guides, and the Director of Commercial Services called it "both technically sound and operationally practical."*
+
 A client application built for SAIT Commercial Services in 2026 to administer campus food-vendor rent. Delivered under a confidentiality agreement, so this write-up uses no vendor names and no rent figures. The code stays with the client.
 
 ## The problem
