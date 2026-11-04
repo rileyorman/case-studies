@@ -56,4 +56,4 @@ After handover Livia wrote, in a public recommendation, that the result was "bot
 
 ## How it was built
 
-With Claude Code as the pair, every change had to pass the rebuild, the test suites and a scripted walkthrough before it went into the copy handed to the client. The engineering rules that made this work are the same ones in [FinLens](https://github.com/rileyorman/finlens), and the short version is in [how I work with AI](how-i-work-with-ai.md).
+With Claude Code as the pair, every change had to pass the rebuild, the test suites and a scripted walkthrough before it went into the copy handed to the client. The engineering rules that made this work are the same ones in [FinLens](https://github.com/rileyorman/finlens).
