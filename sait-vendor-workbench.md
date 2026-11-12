@@ -49,7 +49,7 @@ After handover Livia wrote, in a public recommendation, that the result was "bot
 
 - **Say what the number is.** Original, calculated, uploaded, or blank. Labelling the provenance on every cell ended most of the arguments before they started.
 - **Flag, never fix.** The temptation to tidy a source figure is strong and always wrong. A logged question with the client's answer attached is worth more than a clean-looking table.
-- **The client's own routine is the product.** The capstone question was a standardized rent model. What the client needed on a Tuesday was a clerk's month: type, check, store, run the pack. Building that well is what got the model instrument used.
+- **The client's own routine is the product.** The capstone question was a standardized rent model. What the client needed on a Tuesday was a clerk's month: type, check, store, run the pack. Building that well is what makes the model instrument worth using.
 - **Fair is not a number.** Every vendor and every negotiator had a different one. The useful thing an app can do is make the structures the same and the comparison visible, then get out of the way.
 - **Rehearse on made up data before anyone real touches it.** Six findings in round one would have been six embarrassments in the room.
 - **Build it so a developer is not needed.** Every "can we do that without you" question from the client became a feature. That is the difference between a project and a tool.
